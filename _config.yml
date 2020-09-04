@@ -1,0 +1,67 @@
+# Dependencies
+markdown: kramdown
+highlighter: rouge
+
+# Setup
+title: 'Megha Anand'
+email: 'manand@fysik.dtu.dk'
+#tagline: 'Personal website'
+description: 'Personal website to document my research, hobbies.'
+url: https://megha-anand.github.io
+repository: https://github.com/megha-anand/megha-anand.github.io
+cv_file: 'CV - Megha Anand.pdf'
+profile_pic_file: 'Profile Pic - Megha Anand.jpeg'
+baseurl: '/'
+
+author:
+  name: 'Megha Anand'
+  url: https://www.linkedin.com/in/megha-anand-156823131
+
+paginate: 5
+# paginate_path:    '/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Sidebar link settings
+sidebar_home_link: true
+#sidebar_blog_link:  '/blog'
+
+github:
+  profile: https://github.com/megha-anand
+  repo: https://github.com/megha-anand/megha-anand.github.io
+
+linkedin:
+  profile: https://www.linkedin.com/in/megha-anand-156823131
+
+twitter:
+  profile:
+
+google_scholar:
+  profile: https://scholar.google.com/citations?user=nlk87p8AAAAJ&hl=en&oi=ao
+
+cite:
+  me:
+    name: 'Megha Anand'
+    google_scholar: https://scholar.google.com/citations?user=nlk87p8AAAAJ&hl=en&oi=ao
+  rbsunoj:
+    name: 'Raghavan B. Sunoj'
+    google_scholar: https://scholar.google.com/citations?user=hboZd1AAAAAJ&hl=en
+  henrys3:
+    name: 'Henry F. Schaefer III'
+    google_scholar: https://scholar.google.com/citations?user=R6NrFd4AAAAJ&hl=en
+  jens:
+    name: 'Jens K. Nørskov'
+    google_scholar: https://scholar.google.com/citations?user=hPVDFTEAAAAJ&hl=en
+  judywu:
+    name: 'Judy I-Chia Wu'
+    google_scholar: https://scholar.google.com/citations?user=nUZ9EqQAAAAJ&hl=en
+  israel:
+    name: 'Israel Fernández'
+    google_scholar: https://scholar.google.com/citations?user=VKltHrYAAAAJ&hl=en
+  samira:
+    name: 'Samira Siahrostami'
+    google_scholar: https://scholar.google.com/citations?user=j0IUT_gAAAAJ&hl=en

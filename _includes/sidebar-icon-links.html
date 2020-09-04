@@ -1,0 +1,56 @@
+<nav id="sidebar-icon-links">
+  {% comment %}
+    Check if we have tag or search pages page active before linking to it.
+  {% endcomment %}
+  {% assign tags_page = false %}
+  {% for node in site.pages %}
+    {% if node.layout == "tags" %}
+      {% assign tags_page = node %}
+    {% endif %}
+  {% endfor %}
+
+  <a id="email-link"
+     class="icon" title="Email" aria-label="Email"
+     href="mailto:{{ site.email }}">
+    {% include svg/email.svg %}
+  </a>
+
+  <a id="cv-link"
+     class="icon" title="CV" aria-label="CV"
+     href="{{ site.repository }}/raw/master/_files/{{ site.cv_file }}">
+    {% include svg/cv.svg %}
+  </a>
+
+  <a id="google-scholar-link"
+     class="icon" title="Google Scholar" aria-label="Google Scholar"
+     href="{{ site.google_scholar.profile }}">
+    {% include svg/google-scholar.svg %}
+  </a>
+
+  <a id="github-link"
+     class="icon" title="Github" aria-label="Github"
+     href="{{ site.github.profile }}">
+    {% include svg/github.svg %}
+  </a>
+
+  <a id="linkedin-link"
+     class="icon" title="LinkedIn" aria-label="LinkedIn"
+     href="{{ site.linkedin.profile }}">
+    {% include svg/linkedin.svg %}
+  </a>
+
+  <a id="twitter-link"
+     class="icon" title="Twitter" aria-label="Twitter"
+     href="{{ site.twitter.profile }}">
+    {% include svg/twitter.svg %}
+  </a>
+
+  {% if tags_page %}
+  <a id="tags-link"
+     class="icon{% if page.url == '/tags' %} active{% endif %}"
+     title="Tags" aria-label="Tags"
+     href="{{ tags_page.url | relative_url }}">
+    {% include svg/tags.svg %}
+  </a>
+  {% endif %}
+</nav>

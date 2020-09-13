@@ -4,7 +4,7 @@ title: Experience
 ---
 
 ### **Post-doctoral Associate**
-> [Technical University of Denmark](https://www.dtu.dk/english){:target="_blank"}, *Copenhagen*, *Denmark* `Aug 2018 - present`
+> [Technical University of Denmark](https://www.dtu.dk/english){:target="_blank"}, *Denmark* `Aug 2018 - present`
 > 
 > *[Catalysis Theory Center](https://cattheory.dtu.dk/){:target="_blank"}*
 >
@@ -17,14 +17,14 @@ title: Experience
 ---
 > [Stanford University](https://www.stanford.edu/){:target="_blank"}, *Stanford*, *California*, *USA* `Jan 2017 - Jul 2018`
 > 
-> *[SUNCAT](https://suncat.stanford.edu/){:target="_blank"}*
+> *[SUNCAT Center for Interface Science and Catalysis](https://suncat.stanford.edu/){:target="_blank"}*
 >
 > **Advisor**: [{{ site.cite.jens.name }}]({{ site.cite.jens.google_scholar }}){:target="_blank"}
 >
 > * Computationally studied oxygen reduction reaction on metal-doped boron nitride sheets, metal-zeolites and gold-supported metal porphycenes.
 
 ### **Graduate Student**
-> [University of Georgia Athens](https://www.uga.edu/){:target="_blank"}, *Athens*, *Georgia*, *USA* `Aug 2012 - May 2016`
+> [University of Georgia Athens](https://www.uga.edu/){:target="_blank"}, *Georgia*, *USA* `Aug 2012 - May 2016`
 > 
 > *[Center for Computational and Quantum Chemistry](https://www.ccqc.uga.edu/){:target="_blank"}*
 >

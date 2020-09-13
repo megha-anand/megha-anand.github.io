@@ -3,7 +3,7 @@ layout: page
 title: Teaching & Review
 ---
 
-## **Reviewer**
+## **Independent Reviewer**
 > [Nature Communications Chemistry](https://www.nature.com/subjects/chemistry/ncomms){:target="_blank"}, `since 2020`
 
 > [WIREs Computational Molecular Science](https://onlinelibrary.wiley.com/loi/17590884){:target="_blank"}, `since 2019`
@@ -36,6 +36,13 @@ title: Teaching & Review
 >
 > **Department of Chemistry**, [Indian Institute of Technology Bombay](http://www.iitb.ac.in/){:target="_blank"}
 
+---
+## **Coordinator**
+#### Quarterly project reports, `Aug 2018 - present`
+> [Toyota Research Institute](https://www.tri.global/){:target="_blank"} - [Technical University of Denmark](https://www.dtu.dk/english){:target="_blank"} collaboration
+
+---
+## **Workshops**
 #### Computational Chemistry workshop
 > `2012`, *Workshop*
 >

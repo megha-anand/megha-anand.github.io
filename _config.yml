@@ -38,7 +38,7 @@ linkedin:
   profile: https://www.linkedin.com/in/megha-anand-156823131
 
 twitter:
-  profile:
+  profile: https://twitter.com/megha_anand_1
 
 google_scholar:
   profile: https://scholar.google.com/citations?user=nlk87p8AAAAJ&hl=en&oi=ao
@@ -46,7 +46,7 @@ google_scholar:
 cite:
   me:
     name: 'Megha Anand'
-    google_scholar: https://scholar.google.com/citations?user=nlk87p8AAAAJ&hl=en&oi=ao
+    google_scholar: https://scholar.google.com/citations?user=nlk87p8AAAAJ&hl=en
   rbsunoj:
     name: 'Raghavan B. Sunoj'
     google_scholar: https://scholar.google.com/citations?user=hboZd1AAAAAJ&hl=en
@@ -65,3 +65,9 @@ cite:
   samira:
     name: 'Samira Siahrostami'
     google_scholar: https://scholar.google.com/citations?user=j0IUT_gAAAAJ&hl=en
+  brianr:
+    name: 'Brian Rohr'
+    google_scholar: https://scholar.google.com/citations?user=Vdt04AkAAAAJ&hl=en
+  michaelj:
+    name: 'Michael J. Statt'
+    google_scholar: https://scholar.google.com/citations?user=y_f77tsAAAAJ&hl=en

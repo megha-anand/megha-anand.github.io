@@ -4,6 +4,10 @@ title: Conferences & Presentations
 ---
 
 ## **Presented**
+#### [2020 AIChE Annual Meeting](https://www.aiche.org/conferences/aiche-annual-meeting/2020){:target="_blank"}
+>
+> *Scheduled Oral Talk, Virtual*, `November 2020`
+
 #### [Toyota Research Institute Accelerated Materials Design and Discovery (*AMDD*) Conference](https://www.tri.global/accelerated-materials-design-and-discovery/){:target="_blank"}
 >
 > *Presented Annually*, `2017 - 2020`

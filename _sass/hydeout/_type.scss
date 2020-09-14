@@ -139,3 +139,23 @@ a svg,
 .icon {
   vertical-align: middle;
 }
+
+.paintings-parent {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: baseline;
+  align-content: flex-start;
+}
+
+.paintings-child {
+  flex-grow: 0;
+  flex-basis: auto;
+  padding: 0.5em;
+  margin: 0;
+  border-radius: 1em;
+  width: auto;
+  height: auto;
+  max-height: 40vh;
+}

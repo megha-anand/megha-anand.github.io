@@ -12,7 +12,14 @@
    href="conferences-presentations.html">Conferences & Presentations</a>
 <a class="page-link {% if page.url == '/honors-awards.html' %} active{% endif %}"
    href="honors-awards.html">Honors & Awards</a>
-<a class="page-link {% if page.url == '/hobbies.html' %} active{% endif %}"
-   href="hobbies.html">Hobbies</a>
+
+<a id="hobbies_header" class="page-link"><i id="hobbies_header_indicator" class="fas fa-chevron-circle-down"></i> Hobbies</a>
+<div id="hobbies_links" class="hobbies_links" {% if page.url != '/paintings.html' %}style="max-height: 0"{% else %}style="max-height: 28px"{% endif %}">
+    <a class="page-link {% if page.url == '/paintings.html' %} active{% endif %}"
+       href="paintings.html">Paintings</a>
+</div>
+
 <a class="page-link {% if page.url == '/contact.html' %} active{% endif %}"
    href="contact.html">Contact</a>
+
+<script type="text/javascript" src="/assets/js/hobbies_header.js"></script>

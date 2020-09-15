@@ -18,6 +18,20 @@ title: Conferences & Presentations
 
 ---
 ## **Attended**
+#### [10th Congress of the World Association of Theoretical and Computational Chemists (*WATOC*)](https://watoc.net/pdf/WATOC_PGM1.pdf){:target="_blank"}
+>
+> *Conference*, `2014`
+
+#### Southeastern Theoretical Chemistry Association (SETCA)
+>
+> *Conference*, [Emory University](https://www.emory.edu/home/index.html){:target="_blank"}, `2014`
+
+#### National meeting of the Chemical Research Society of India (*CRSI*, equivalent to the *ACS National Meetings* in United States)
+>
+> *Conference*, `2011`
+
+---
+## **Training & Workshops**
 #### Atomic Simulation Environment (ASE) Workshop
 >
 > *Workshop*, [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx){:target="_blank"}, `2019`
@@ -37,15 +51,3 @@ title: Conferences & Presentations
 #### (SICM)2
 >
 > *Software Summer School* [Virginia Tech](https://vt.edu/){:target="_blank"}, `2015`
-
-#### [10th Congress of the World Association of Theoretical and Computational Chemists (*WATOC*)](https://watoc.net/pdf/WATOC_PGM1.pdf){:target="_blank"}
->
-> *Conference*, `2014`
-
-#### Southeastern Theoretical Chemistry Association (SETCA)
->
-> *Conference*, [Emory University](https://www.emory.edu/home/index.html){:target="_blank"}, `2014`
-
-#### National meeting of the Chemical Research Society of India (*CRSI*, equivalent to the *ACS National Meetings* in United States)
->
-> *Conference*, `2011`

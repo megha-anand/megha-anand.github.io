@@ -12,6 +12,7 @@ title: Experience
 >
 > * Computational study on doped oxides as stable materials for oxygen reduction reaction.
 > * Develop new methods for homogeneous catalysis using data intensive approaches.
+> * In silico catalyst discovery for electrochemical oxidation of molecular nitrogen to nitrates.
 > * Active learning to discover molecular catalysts for challenging homogeneous reactions.
 
 ---

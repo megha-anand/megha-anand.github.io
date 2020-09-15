@@ -140,6 +140,13 @@ a svg,
   vertical-align: middle;
 }
 
+.hobbies_links {
+  padding: 0 1.3em;
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.2s ease-out;
+}
+
 .paintings-parent {
   display: flex;
   flex-direction: row;
@@ -152,8 +159,13 @@ a svg,
 .paintings-child {
   flex-grow: 0;
   flex-basis: auto;
-  padding: 0.2em;
+  cursor: pointer;
+  padding: 0.1em;
   margin: 0;
-  border-radius: 1em;
+  border-radius: 0.5em;
   display: inline-block;
+}
+
+.paintings-child:hover {
+  box-shadow: 0 0 1em darkgray;
 }

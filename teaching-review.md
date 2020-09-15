@@ -17,7 +17,7 @@ title: Teaching & Review
 ---
 ## **Teaching Assistant**
 #### [Concepts in heterogeneous catalysis and applications to energy conversion](https://kurser.dtu.dk/course/10339){:target="_blank"}
-> `10339`, `Autumn 2020`, *Masters level course*
+> `10339`, `Autumn 2020`, *Masters level course*, ***Teaching Assistant*** & ***Lecturer***
 >
 > **Department of Physics**, [Technical University of Denmark](https://www.dtu.dk/english){:target="_blank"}
 

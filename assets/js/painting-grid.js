@@ -1,8 +1,10 @@
 let SINGLE_PAINTING_WIDTH_THRESHOLD = 300;
 
-renderPaintings();
-
 window.onresize = function() {
+    renderPaintings();
+};
+
+window.onload = function () {
     renderPaintings();
 };
 
@@ -43,8 +45,16 @@ function renderPaintings() {
 
             let currentPainting = document.getElementById('painting' + currentPaintingIndex);
 
-            currentPainting.style.maxWidth = Math.floor(getWidthAtHeight(currentPainting, currentRowNumPaintings*scaleFactor*maxHeight)).toString() + 'px';
-            currentPainting.style.maxHeight = Math.floor(currentRowNumPaintings*scaleFactor*maxHeight).toString() + 'px';
+            let calculatedWidth = Math.floor(getWidthAtHeight(currentPainting, currentRowNumPaintings*scaleFactor*maxHeight));
+            let calculatedHeight = Math.floor(currentRowNumPaintings*scaleFactor*maxHeight);
+
+            if (currentRowNumPaintings < numPaintingsPerRow && currentRowNumPaintings/numPaintingsPerRow < 0.5) {
+                currentPainting.style.maxWidth = (calculatedWidth/numPaintingsPerRow).toString() + 'px';
+                currentPainting.style.maxHeight = (calculatedHeight/numPaintingsPerRow).toString() + 'px';
+            } else {
+                currentPainting.style.maxWidth = calculatedWidth.toString() + 'px';
+                currentPainting.style.maxHeight = calculatedHeight.toString() + 'px';
+            }
         }
     }
 }

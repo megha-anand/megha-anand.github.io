@@ -12,9 +12,9 @@ title: Education
 > * ***Advisor***: [{{ site.cite.henrys3.name }}]({{ site.cite.henrys3.google_scholar }}){:target="_blank"}
 
 ### **[Indian Institute of Technology Bombay](http://www.iitb.ac.in/){:target="_blank"}**, *Mumbai*, *India*
-> *[RBS Group](https://ether.chem.iitb.ac.in/~sunoj/index.html){:target="_blank"}*
+> *[Computational Chemistry Group](https://ether.chem.iitb.ac.in/~sunoj/index.html){:target="_blank"}*
 >
-> **Five year Integrated M.S., Chemistry**, `Aug 2007 - Apr 2012`
+> **Five year Integrated M.S. in Chemistry**, `Aug 2007 - Apr 2012`
 >
-> * ***Dissertation topic***: [[ENTER TOPIC]](){:target="_blank"}
+> * ***Dissertation topic***: [Density functional theory studies on mechanism of transition metal catalysed double C–H activation reactions]({{ site.repository }}/raw/master/_files/{{ site.dissertation_ms_file }}){:target="_blank"}
 > * ***Advisor***: [{{ site.cite.rbsunoj.name }}]({{ site.cite.rbsunoj.google_scholar }}){:target="_blank"}

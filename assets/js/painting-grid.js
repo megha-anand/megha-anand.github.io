@@ -6,6 +6,7 @@ window.onresize = function() {
 
 window.onload = function () {
     renderPaintings();
+    addPaintingModal();
 };
 
 function renderPaintings() {
@@ -65,4 +66,26 @@ function getCurrentPaintingIndex(row, col, numPaintingsPerRow) {
 
 function getWidthAtHeight(painting, height) {
     return (painting.naturalWidth/painting.naturalHeight)*height;
+}
+
+function addPaintingModal() {
+    let paintingsGridContainer = document.getElementById('paintings-grid');
+
+    Array.from(paintingsGridContainer.children).forEach(function (painting) {
+        let paintingModal = document.getElementById('painting-modal');
+        let paintingModalImage = document.getElementById('painting-modal-image');
+
+        painting.onclick = function () {
+            paintingModal.style.display = 'block';
+            paintingModalImage.src = this.src;
+        };
+    });
+
+    document.getElementById('painting-modal').onclick = function (params) {
+        if (params.target.id !== 'painting-modal-image') {
+            let paintingModal = document.getElementById('painting-modal');
+
+            paintingModal.style.display = 'none';
+        }
+    };
 }

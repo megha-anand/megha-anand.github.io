@@ -16,7 +16,7 @@ function renderPaintings() {
     let maxHeight = currentRowWidth/2;
     let numPaintingsPerRow = Math.floor(currentRowWidth/SINGLE_PAINTING_WIDTH_THRESHOLD);
 
-    let numPaintings = paintingsGridContainer.children.length;
+    let numPaintings = document.getElementsByClassName('paintings-child').length;
 
     for (let row = 0; row < numPaintings/numPaintingsPerRow; ++row) {
         let currentRowWidthTotal = 0;
@@ -44,17 +44,17 @@ function renderPaintings() {
                 break;
             }
 
-            let currentPainting = document.getElementById('painting' + currentPaintingIndex);
+            let currentPainting = document.getElementById('paintingContainer' + currentPaintingIndex);
 
             let calculatedWidth = Math.floor(getWidthAtHeight(currentPainting, currentRowNumPaintings*scaleFactor*maxHeight));
             let calculatedHeight = Math.floor(currentRowNumPaintings*scaleFactor*maxHeight);
 
             if (currentRowNumPaintings < numPaintingsPerRow && currentRowNumPaintings/numPaintingsPerRow < 0.5) {
-                currentPainting.style.maxWidth = (calculatedWidth/numPaintingsPerRow).toString() + 'px';
-                currentPainting.style.maxHeight = (calculatedHeight/numPaintingsPerRow).toString() + 'px';
+                currentPainting.style.width = (calculatedWidth*currentRowNumPaintings/numPaintingsPerRow).toString() + 'px';
+                currentPainting.style.height = (calculatedHeight*currentRowNumPaintings/numPaintingsPerRow).toString() + 'px';
             } else {
-                currentPainting.style.maxWidth = calculatedWidth.toString() + 'px';
-                currentPainting.style.maxHeight = calculatedHeight.toString() + 'px';
+                currentPainting.style.width = calculatedWidth.toString() + 'px';
+                currentPainting.style.height = calculatedHeight.toString() + 'px';
             }
         }
     }
@@ -69,9 +69,7 @@ function getWidthAtHeight(painting, height) {
 }
 
 function addPaintingModal() {
-    let paintingsGridContainer = document.getElementById('paintings-grid');
-
-    Array.from(paintingsGridContainer.children).forEach(function (painting) {
+    Array.from(document.getElementsByClassName('paintings-child')).forEach(function (painting) {
         let paintingModal = document.getElementById('painting-modal');
         let paintingModalImage = document.getElementById('painting-modal-image');
 

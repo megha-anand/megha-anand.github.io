@@ -147,7 +147,7 @@ a svg,
   transition: max-height 0.2s ease-out;
 }
 
-.paintings-parent {
+.paintings-grid {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -156,14 +156,23 @@ a svg,
   align-content: flex-start;
 }
 
-.paintings-child {
+.paintings-child-container {
   flex-grow: 0;
   flex-basis: auto;
-  cursor: pointer;
-  padding: 0.1em;
+  padding: 0;
   margin: 0;
-  border-radius: 0.5em;
   display: inline-block;
+}
+
+.paintings-child {
+  object-fit: contain;
+  max-height: 98%;
+  max-width: 98%;
+  transform: translate(0%, 1%);
+  cursor: pointer;
+  padding: 0;
+  margin: auto;
+  border-radius: 0.5em;
 }
 
 .paintings-child:hover {
@@ -180,10 +189,11 @@ a svg,
   width: 100%;
   height: 100%;
   background-color: rgb(0, 0, 0);
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(0, 0, 0, 0.95);
 }
 
 #painting-modal-image {
+  border-radius: 0.5em;
   display: block;
   position: absolute;
   top: 50%;

@@ -3,12 +3,12 @@ layout: page
 title: Publications
 ---
 
-#### Scaling Relationships and Volcano Plots in Homogeneous Catalysis
+#### [Scaling Relationships and Volcano Plots in Homogeneous Catalysis](https://doi.org/10.1021/acs.jpclett.0c01991){:target="_blank"}
 > [**{{ site.cite.me.name }}**]({{ site.cite.me.google_scholar }}){:target="_blank"}, [{{ site.cite.brianr.name }}]({{ site.cite.brianr.google_scholar }}){:target="_blank"}, [{{ site.cite.michaelj.name }}]({{ site.cite.michaelj.google_scholar }}){:target="_blank"} and [{{ site.cite.jens.name }}]({{ site.cite.jens.google_scholar }}){:target="_blank"}
 >
-> *Accepted*: **`September, 2020`**
+> *Published*: **`September 15, 2020`**
 >
-> [*Journal of Physical Chemistry Letters*](https://pubs.acs.org/journal/jpclcd)
+> *J. Phys. Chem. Lett.*, *2020*, XXXX-XXXX, [DOI: 10.1021/acs.jpclett.0c01991](https://doi.org/10.1021/acs.jpclett.0c01991){:target="_blank"}
 
 ---
 #### [Scaling Relations in Homogeneous Catalysis: Analyzing the Buchwald–Hartwig Amination Reaction](https://doi.org/10.1021/acscatal.9b04323){:target="_blank"}
@@ -16,7 +16,7 @@ title: Publications
 >
 > *Published*: **`November 25, 2019`**
 >
-> *ACS Catalysis*, **`2020`**, *10* (1), 336-345, [DOI: 10.1021/acscatal.9b04323](https://doi.org/10.1021/acscatal.9b04323){:target="_blank"}
+> *ACS Catalysis*, *2020*, *10* (1), 336-345, [DOI: 10.1021/acscatal.9b04323](https://doi.org/10.1021/acscatal.9b04323){:target="_blank"}
 
 ---
 #### [Is silver a mere terminal oxidant in palladium catalyzed C–H bond activation reactions?](https://doi.org/10.1039/C9SC04540F){:target="_blank"}
@@ -24,7 +24,7 @@ title: Publications
 >
 > *Published*: **`November 13, 2019`**
 >
-> *Chem. Sci.*, **`2020`**, *11*, 208-216, [DOI: 10.1039/C9SC04540F](https://doi.org/10.1039/C9SC04540F){:target="_blank"}
+> *Chem. Sci.*, *2020*, *11*, 208-216, [DOI: 10.1039/C9SC04540F](https://doi.org/10.1039/C9SC04540F){:target="_blank"}
 
 ---
 #### [Exploring the Effect of Gold Support on the Oxygen Reduction Reaction Activity of Metal Porphycenes](https://doi.org/10.1002/cctc.201801408){:target="_blank"}
@@ -32,7 +32,7 @@ title: Publications
 >
 > *Published*: **`November 13, 2018`**
 >
-> *ChemCatChem*, **`2018`**, *10* (23), 5505-5510, [DOI: 10.1002/cctc.201801408](https://doi.org/10.1002/cctc.201801408){:target="_blank"}
+> *ChemCatChem*, *2018*, *10* (23), 5505-5510, [DOI: 10.1002/cctc.201801408](https://doi.org/10.1002/cctc.201801408){:target="_blank"}
 
 ---
 #### [Palladium–Silver Cooperativity in an Aryl Amination Reaction through C–H Functionalization](https://doi.org/10.1021/acscatal.5b02639){:target="_blank"}
@@ -40,7 +40,7 @@ title: Publications
 >
 > *Published*: **`December 29, 2015`**
 >
-> *ACS Catalysis*, **`2016`**, *6* (2), 696-708, [DOI: 10.1021/acscatal.5b02639](https://doi.org/10.1021/acscatal.5b02639){:target="_blank"}
+> *ACS Catalysis*, *2016*, *6* (2), 696-708, [DOI: 10.1021/acscatal.5b02639](https://doi.org/10.1021/acscatal.5b02639){:target="_blank"}
 
 ---
 #### [Hydrogen bond–aromaticity cooperativity in self‐assembling 4‐pyridone chains](https://doi.org/10.1002/jcc.23976){:target="_blank"}
@@ -48,7 +48,7 @@ title: Publications
 >
 > *Published*: **`June 23, 2015`**
 >
-> *J. Comput. Chem.*, **`2016`**, *37*, 59– 63, [DOI: 10.1002/jcc.23976](https://doi.org/10.1002/jcc.23976){:target="_blank"}
+> *J. Comput. Chem.*, *2016*, *37*, 59– 63, [DOI: 10.1002/jcc.23976](https://doi.org/10.1002/jcc.23976){:target="_blank"}
 
 ---
 #### [Non-innocent Additives in a Palladium(II)-Catalyzed C–H Bond Activation Reaction: Insights into Multimetallic Active Catalysts](https://doi.org/10.1021/ja412770h){:target="_blank"}
@@ -56,7 +56,7 @@ title: Publications
 >
 > *Published*: **`April 3, 2014`**
 >
-> *Journal of the American Chemical Society*, **`2014`**, *136* (15), 5535-5538, [DOI: 10.1021/ja412770h](https://doi.org/10.1021/ja412770h){:target="_blank"}
+> *Journal of the American Chemical Society*, *2014*, *136* (15), 5535-5538, [DOI: 10.1021/ja412770h](https://doi.org/10.1021/ja412770h){:target="_blank"}
 
 ---
 #### [Mechanism of Cooperative Catalysis in a Lewis Acid Promoted Nickel-Catalyzed Dual C–H Activation Reaction](https://doi.org/10.1021/ol302047c){:target="_blank"}
@@ -64,7 +64,7 @@ title: Publications
 >
 > *Published*: **`August 16, 2012`**
 >
-> *Organic Letters*, **`2012`**, *14* (17), 4584-4587, [DOI: 10.1021/ol302047c](https://doi.org/10.1021/ol302047c){:target="_blank"}
+> *Organic Letters*, *2012*, *14* (17), 4584-4587, [DOI: 10.1021/ol302047c](https://doi.org/10.1021/ol302047c){:target="_blank"}
 
 ---
 #### [Role of Explicit Solvents in Palladium(II)-Catalyzed Alkoxylation of Arenes: An Interesting Paradigm for Preferred Outer-Sphere Reductive Elimination over Inner-Sphere Pathway](https://doi.org/10.1021/om300681e){:target="_blank"}
@@ -72,7 +72,7 @@ title: Publications
 >
 > *Published*: **`August 6, 2012`**
 >
-> *Organometallics*, **`2012`**, *31* (17), 6466-6481, [DOI: 10.1021/om300681e](https://doi.org/10.1021/om300681e){:target="_blank"}
+> *Organometallics*, *2012*, *31* (17), 6466-6481, [DOI: 10.1021/om300681e](https://doi.org/10.1021/om300681e){:target="_blank"}
 
 ---
 #### [Microsolvated transition state models for improved insight into chemical properties and reaction mechanisms](https://doi.org/10.1039/C2CP41719G){:target="_blank"}
@@ -80,7 +80,7 @@ title: Publications
 >
 > *Published*: **`July 18, 2012`**
 >
-> *Phys. Chem. Chem. Phys.*, **`2012`**, *14*, 12715-12736, [DOI: 10.1039/C2CP41719G](http://dx.doi.org/10.1039/C2CP41719G){:target="_blank"}
+> *Phys. Chem. Chem. Phys.*, *2012*, *14*, 12715-12736, [DOI: 10.1039/C2CP41719G](http://dx.doi.org/10.1039/C2CP41719G){:target="_blank"}
 
 ---
 #### [Palladium(II)-Catalyzed Direct Alkoxylation of Arenes: Evidence for Solvent-Assisted Concerted Metalation Deprotonation](https://doi.org/10.1021/ol201830r){:target="_blank"}
@@ -88,4 +88,4 @@ title: Publications
 >
 > *Published*: **`August 22, 2011`**
 >
-> *Organic Letters*, **`2011`**, *13* (18), 4802-4805, [DOI: 10.1021/ol201830r](https://doi.org/10.1021/ol201830r){:target="_blank"}
+> *Organic Letters*, *2011*, *13* (18), 4802-4805, [DOI: 10.1021/ol201830r](https://doi.org/10.1021/ol201830r){:target="_blank"}

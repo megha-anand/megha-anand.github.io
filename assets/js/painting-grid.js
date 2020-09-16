@@ -49,7 +49,7 @@ function renderPaintings() {
             let calculatedWidth = Math.floor(getWidthAtHeight(currentPainting, currentRowNumPaintings*scaleFactor*maxHeight));
             let calculatedHeight = Math.floor(currentRowNumPaintings*scaleFactor*maxHeight);
 
-            if (currentRowNumPaintings < numPaintingsPerRow && currentRowNumPaintings/numPaintingsPerRow < 0.5) {
+            if (currentRowNumPaintings < numPaintingsPerRow && currentRowNumPaintings/numPaintingsPerRow < 0.66) {
                 currentPainting.style.width = (calculatedWidth*currentRowNumPaintings/numPaintingsPerRow).toString() + 'px';
                 currentPainting.style.height = (calculatedHeight*currentRowNumPaintings/numPaintingsPerRow).toString() + 'px';
             } else {

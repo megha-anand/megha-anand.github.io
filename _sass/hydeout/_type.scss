@@ -165,6 +165,8 @@ a svg,
 }
 
 .paintings-child {
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
   object-fit: contain;
   max-height: 98%;
   max-width: 98%;

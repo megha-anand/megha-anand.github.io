@@ -8,7 +8,7 @@ title: Publications
 >
 > *Published*: **`September 15, 2020`**
 >
-> *J. Phys. Chem. Lett.*, *2020*, XXXX-XXXX, [DOI: 10.1021/acs.jpclett.0c01991](https://doi.org/10.1021/acs.jpclett.0c01991){:target="_blank"}
+> *J. Phys. Chem. Lett.*, *2020*, *11*, 8518–8526, [DOI: 10.1021/acs.jpclett.0c01991](https://doi.org/10.1021/acs.jpclett.0c01991){:target="_blank"}
 
 ---
 #### [Scaling Relations in Homogeneous Catalysis: Analyzing the Buchwald–Hartwig Amination Reaction](https://doi.org/10.1021/acscatal.9b04323){:target="_blank"}

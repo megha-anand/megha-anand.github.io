@@ -3,4 +3,4 @@ layout: page
 title: About Me
 ---
 
-> [Add introductory statement]
+> Researcher with 12 years of experience in Computational Catalysis.

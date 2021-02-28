@@ -4,9 +4,13 @@ title: Conferences & Presentations
 ---
 
 ## **Presented**
+#### [Reaction mechanisms in catalysis: Faraday Discussion](https://www.rsc.org/events/detail/36562/reaction-mechanisms-in-catalysis-faraday-discussion){:target="_blank"}
+>
+> *Poster selected for **<u>Lightning Poster Session</u>**, Virtual*, `February 2021`
+
 #### [2020 AIChE Annual Meeting](https://www.aiche.org/conferences/aiche-annual-meeting/2020){:target="_blank"}
 >
-> *Scheduled Oral Talk, Virtual*, `November 2020`
+> *Oral Talk, Virtual*, `November 2020`
 
 #### [Toyota Research Institute Accelerated Materials Design and Discovery (*AMDD*) Conference](https://www.tri.global/accelerated-materials-design-and-discovery/){:target="_blank"}
 >

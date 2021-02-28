@@ -4,6 +4,8 @@ title: Teaching & Review
 ---
 
 ## **Independent Reviewer**
+> [Journal of Computational Chemistry](https://onlinelibrary.wiley.com/journal/1096987x){:target="_blank"}, `since 2020`
+
 > [Nature Communications Chemistry](https://www.nature.com/subjects/chemistry/ncomms){:target="_blank"}, `since 2020`
 
 > [WIREs Computational Molecular Science](https://onlinelibrary.wiley.com/loi/17590884){:target="_blank"}, `since 2019`

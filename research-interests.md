@@ -3,20 +3,14 @@ layout: page
 title: Research Interests
 ---
 
-Computational Chemistry
-: [describe]
+#### Computational Chemistry
 
-Heterogeneous and Homogeneous Catalysis
-: [describe]
+#### Heterogeneous and Homogeneous Catalysis
 
-Electrochemistry
-: [describe]
+#### Electrochemistry
 
-Reaction Mechanism
-: [describe]
+#### Reaction Mechanism
 
-Solvent Effects
-: [describe]
+#### Solvent Effects
 
-Active Learning
-: [describe]
+#### Active Learning

@@ -2,7 +2,7 @@
   <header>
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <img id="profile-pic"
-           class="icon" aria-label="Profile Picture" src="{{ site.repository }}/raw/master/_files/{{ site.profile_pic_file }}">
+           class="icon" aria-label="Profile Picture" src="{{ site.repository }}/raw/mainline/_files/{{ site.profile_pic_file }}">
       <a id="title" href="{{ "/" | relative_url }}">
         {% unless page.url == "/" %}
           <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>

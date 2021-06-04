@@ -3,6 +3,20 @@ layout: page
 title: Publications
 ---
 
+#### [Analysis of the limitations in the oxygen reduction activity of transition metal oxide surfaces](https://doi.org/10.1038/s41929-021-00618-w){:target="_blank"}
+> Hao Li, Sara Kelly, Dan Guevarra, Zhenbin Wang, Yu Wang, Joel A. Haber, [**{{ site.cite.me.name }}**]({{ site.cite.me.google_scholar }}){:target="_blank"}, G. T. Kasun Kalhara Gunasooriya, [{{ site.cite.christina.name }}]({{ site.cite.christina.google_scholar }}){:target="_blank"} Sudarshan Vijay, John M. Gregoireand and [{{ site.cite.jens.name }}]({{ site.cite.jens.google_scholar }}){:target="_blank"}
+>
+> *Published*: **`May 24, 2021`**
+>
+> *Nature Catalysis*, *2021*, [DOI: 10.1038/s41929-021-00618-w](https://doi.org/10.1038/s41929-021-00618-w){:target="_blank"}
+
+#### [Electrochemical oxidation of molecular nitrogen to nitric acid – towards a molecular level understanding of the challenges](https://doi.org/10.1039/D1SC00752A){:target="_blank"}
+> [**{{ site.cite.me.name }}**]({{ site.cite.me.google_scholar }}){:target="_blank"}, [{{ site.cite.christina.name }}]({{ site.cite.christina.google_scholar }}){:target="_blank"} and [{{ site.cite.jens.name }}]({{ site.cite.jens.google_scholar }}){:target="_blank"}
+>
+> *Published*: **`April 9, 2021`**
+>
+> *Chem. Sci.*, *2021*, *12* (18), 6442-6448, [DOI: 10.1039/D1SC00752A](http://dx.doi.org/10.1039/D1SC00752A){:target="_blank"}
+
 #### [Scaling Relationships and Volcano Plots in Homogeneous Catalysis](https://doi.org/10.1021/acs.jpclett.0c01991){:target="_blank"}
 > [**{{ site.cite.me.name }}**]({{ site.cite.me.google_scholar }}){:target="_blank"}, [{{ site.cite.brianr.name }}]({{ site.cite.brianr.google_scholar }}){:target="_blank"}, [{{ site.cite.michaelj.name }}]({{ site.cite.michaelj.google_scholar }}){:target="_blank"} and [{{ site.cite.jens.name }}]({{ site.cite.jens.google_scholar }}){:target="_blank"}
 >

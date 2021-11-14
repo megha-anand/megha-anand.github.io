@@ -162,10 +162,6 @@ body {
   .home #sidebar {
     text-align: left;
     width: $sidebar-width;
-
-    > *:last-child {
-      margin-bottom: 0;
-    }
   }
 
   #sidebar {
@@ -292,13 +288,9 @@ body {
 #sidebar-icon-links {
   flex-flow: row wrap;
   justify-content: center;
-  margin-top: 1rem;
+  text-align: center;
+  margin: 0.5em;
   max-width: 100%;
-
-  @media (min-width: $large-breakpoint) {
-    justify-content: flex-start;
-    margin-left: -0.25em;
-  }
 }
 
 #sidebar nav > * {
@@ -309,7 +301,7 @@ body {
 #sidebar nav > .icon {
   display: inline-block;
   font-size: 1.5rem;
-  margin: 0 0.25em;
+  margin: 0 0.3em;
 }
 
 @media print {

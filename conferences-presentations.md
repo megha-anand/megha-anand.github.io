@@ -4,6 +4,10 @@ title: Conferences & Presentations
 ---
 
 ## **Presented**
+#### [Electrochemical Oxidation of Molecular Nitrogen to Nitric Acid - Towards a Molecular Level Understanding of the Challenges](https://iopscience.iop.org/article/10.1149/MA2021-02531538mtgabs/meta){:target="_blank"}
+>
+> ***<u>Keynote Talk</u>**, Virtual*, `October 2021`, [DOI: 10.1149/MA2021-02531538mtgabs](https://doi.org/10.1149/MA2021-02531538mtgabs){:target="_blank"}
+
 #### [Reaction mechanisms in catalysis: Faraday Discussion](https://www.rsc.org/events/detail/36562/reaction-mechanisms-in-catalysis-faraday-discussion){:target="_blank"}
 >
 > *Poster selected for **<u>Lightning Poster Session</u>**, Virtual*, `February 2021`

@@ -3,6 +3,13 @@ layout: page
 title: Publications
 ---
 
+#### [Monitoring oxygen production on mass-selected iridium–tantalum oxide electrocatalysts](https://www.doi.org/10.1038/s41560-021-00948-w){:target="_blank"}
+> Ya-Rong Zheng, Jerome Vernieres, Zhenbin Wang, Ke Zhang, Degenhart Hochfilzer, Kevin Krempl, Ting-Wei Liao, Francesco Presel, Thomas Altantzis, Jarmo Fatermans, Soren Bertelsen Scott, Niklas Mørch Secher, Choongman Moon, Pei Liu, Sara Bals, Sandra Van Aert, Ang Cao, [**{{ site.cite.me.name }}**]({{ site.cite.me.google_scholar }}){:target="_blank"}, [{{ site.cite.jens.name }}]({{ site.cite.jens.google_scholar }}){:target="_blank"}, Jakob Kibsgaard and Ib Chorkendorff
+>
+> *Published*: **`December 9, 2021`**
+>
+> *Nature Energy*, *2021*, [DOI: 10.1038/s41560-021-00948-w](https://www.doi.org/10.1038/s41560-021-00948-w){:target="_blank"}
+
 #### [Analysis of the limitations in the oxygen reduction activity of transition metal oxide surfaces](https://doi.org/10.1038/s41929-021-00618-w){:target="_blank"}
 > Hao Li, Sara Kelly, Dan Guevarra, Zhenbin Wang, Yu Wang, Joel A. Haber, [**{{ site.cite.me.name }}**]({{ site.cite.me.google_scholar }}){:target="_blank"}, G. T. Kasun Kalhara Gunasooriya, [{{ site.cite.christina.name }}]({{ site.cite.christina.google_scholar }}){:target="_blank"} Sudarshan Vijay, John M. Gregoireand and [{{ site.cite.jens.name }}]({{ site.cite.jens.google_scholar }}){:target="_blank"}
 >
